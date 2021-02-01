@@ -6,7 +6,7 @@ This series is dedicated on teaching you everything you need to know to get star
 
 <table>
   <tr>
-    <td>Lesson 1 : Introduction <a href="https://github.com/codingninja-dev/html-course-notes/tree/master/Html%20Series/01.%20Introduction">Code</a> | Video</td>
+    <td>Lesson 1 : Series Intro <a href="https://github.com/codingninja-dev/html-course-notes/tree/master/Html%20Series/01.%20Series%20Intro">Code</a> | Video</td>
     <td>Lesson 11 : Tables <a href="https://github.com/codingninja-dev/html-course-notes/tree/master/Html%20Series/11.%20Tables">Code</a> | Video</td>
   </tr>
   <tr>
